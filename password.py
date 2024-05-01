@@ -20,6 +20,7 @@ passi=""
 for i in password:
     passi=passi+i
 print(passi)
+print("sasi")
 
 
     
